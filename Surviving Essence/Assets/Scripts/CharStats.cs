@@ -12,6 +12,13 @@ public class CharStats : MonoBehaviour
     public int baseEXP = 1000;
     public int currentHP;
     public int maxHP = 100;
+    public int attack = 5;
+    public int defense = 5;
+    public int accuracy = 5;
+    public int dexterity = 5;
+    public int speed = 5;
+    public int extractedEssenceAffect = 5;
+
     //todo: add public ints for other stats 
     public Sprite charImage;
     // Start is called before the first frame update
