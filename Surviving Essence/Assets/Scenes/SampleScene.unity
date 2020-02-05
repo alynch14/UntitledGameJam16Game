@@ -613,10 +613,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4abe05a44c4d34e4cb9e70bd6aa02593, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  gameManager: {fileID: 0}
   light: {fileID: 1216872882}
-  minutes: 10
+  minutes: 1
   timeTotal: 0
-  timer: 0
 --- !u!1 &1311617216
 GameObject:
   m_ObjectHideFlags: 0
@@ -731,7 +731,10 @@ MonoBehaviour:
   - {fileID: 2115764634}
   itemsHeld: []
   numberOfItems: 
+  referenceItems: []
   currency: 0
+  day: 0
+  second: 0
 --- !u!4 &1734848321
 Transform:
   m_ObjectHideFlags: 0

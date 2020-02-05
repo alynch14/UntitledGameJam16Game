@@ -11,8 +11,10 @@ public class GameManager : MonoBehaviour
     //public bool gameMenuOpen, dialogActive, fadingBetweenAreas, shopActive, battleActive;
     public string[] itemsHeld;
     public int[] numberOfItems;
-    //public Item[] referenceItems;
+    public Item[] referenceItems;
     public int currency;
+    public int day;
+    public float second;
     // Use this for initialization
     void Start()
     {
@@ -35,7 +37,7 @@ public class GameManager : MonoBehaviour
         }*/
     }
 
-    /*public Item GetItemDetails(string itemToGrab)
+    public Item GetItemDetails(string itemToGrab)
     {
         for (int i = 0; i < referenceItems.Length; i++)
         {
@@ -131,7 +133,7 @@ public class GameManager : MonoBehaviour
         {
             Debug.LogError("Couldn't find " + itemToRemove);
         }
-    }*/
+    }
     public void SaveData()
     {
         PlayerPrefs.SetString("Current_Scene", SceneManager.GetActiveScene().name);
@@ -149,16 +151,17 @@ public class GameManager : MonoBehaviour
             {
                 PlayerPrefs.SetInt("Player_" + playerStats[i].charName + "_active", 0);
             }
+
             PlayerPrefs.SetInt("Player_" + playerStats[i].charName + "_Level", playerStats[i].playerLevel);
             PlayerPrefs.SetInt("Player_" + playerStats[i].charName + "_CurrentExp", playerStats[i].currentEXP);
             PlayerPrefs.SetInt("Player_" + playerStats[i].charName + "_CurrentHP", playerStats[i].currentHP);
             PlayerPrefs.SetInt("Player_" + playerStats[i].charName + "_MaxHP", playerStats[i].maxHP);
-/*            PlayerPrefs.SetInt("Player_" + playerStats[i].charName + "_CurrentMP", playerStats[i].currentMP);
-            PlayerPrefs.SetInt("Player_" + playerStats[i].charName + "_MaxMP", playerStats[i].maxMP);
-            PlayerPrefs.SetInt("Player_" + playerStats[i].charName + "_Strength", playerStats[i].strength);
+            PlayerPrefs.SetInt("Player_" + playerStats[i].charName + "_CurrentMP", playerStats[i].attack);
             PlayerPrefs.SetInt("Player_" + playerStats[i].charName + "_Defense", playerStats[i].defense);
-            PlayerPrefs.SetInt("Player_" + playerStats[i].charName + "_WpnPwr", playerStats[i].wpnPwr);
-            PlayerPrefs.SetInt("Player_" + playerStats[i].charName + "_ArmrPwr", playerStats[i].armrPwr);
+            PlayerPrefs.SetInt("Player_" + playerStats[i].charName + "_Accuracy", playerStats[i].accuracy);
+            PlayerPrefs.SetInt("Player_" + playerStats[i].charName + "_Dexterity", playerStats[i].dexterity);
+            PlayerPrefs.SetInt("Player_" + playerStats[i].charName + "_Speed", playerStats[i].speed);
+/*            PlayerPrefs.SetInt("Player_" + playerStats[i].charName + "_ArmrPwr", playerStats[i].armrPwr);
             PlayerPrefs.SetString("Player_" + playerStats[i].charName + "_EquippedWpn", playerStats[i].equippedWpn);
             PlayerPrefs.SetString("Player_" + playerStats[i].charName + "_EquippedArmr", playerStats[i].equippedArmr);*/
         }
