@@ -134,6 +134,7 @@ GameObject:
   - component: {fileID: 59785970}
   - component: {fileID: 59785971}
   - component: {fileID: 59785973}
+  - component: {fileID: 59785972}
   m_Layer: 0
   m_Name: Test Player
   m_TagString: Untagged
@@ -219,7 +220,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   theRB: {fileID: 59785971}
   moveSpeed: 10
-  myAnim: {fileID: 0}
+  myAnim: {fileID: 59785972}
   areaTransitionName: 
   canMove: 1
 --- !u!50 &59785971
@@ -243,6 +244,25 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 0
+--- !u!95 &59785972
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 59785967}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 7c13f89bd35f3f64c9dcde53ce400339, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!61 &59785973
 BoxCollider2D:
   m_ObjectHideFlags: 0
