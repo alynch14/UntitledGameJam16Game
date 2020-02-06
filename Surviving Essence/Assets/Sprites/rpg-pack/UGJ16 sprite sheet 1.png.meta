@@ -1,0 +1,4411 @@
+fileFormatVersion: 2
+guid: e4017020b206f2e41adf73c1dd61bdcb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7335932214978134396
+    second: atlas
+  - first:
+      213: 7319192171248292349
+    second: chars-gabe-gabe-idle-run
+  - first:
+      213: 3320800923809305710
+    second: chars-hat-guy-hat-guy
+  - first:
+      213: 128150305681091139
+    second: chars-mani-mani-idle-run
+  - first:
+      213: -8668216362108800198
+    second: chars-sensei-sensei
+  - first:
+      213: -637207980169810693
+    second: chars-vendor-generic-rpg-vendor
+  - first:
+      213: 6608410585934221988
+    second: mobs-boss_bee
+  - first:
+      213: 1737526046976689001
+    second: mobs-corrupted-fox-run
+  - first:
+      213: 7187598051902970445
+    second: mobs-fox-run
+  - first:
+      213: 5447071845005942608
+    second: mobs-kobold-idle
+  - first:
+      213: 3844037371691381794
+    second: mobs-red-kobold-idle
+  - first:
+      213: 1223221717018166283
+    second: mobs-slime-blue
+  - first:
+      213: -4052717414209936899
+    second: mobs-slime-green
+  - first:
+      213: 8558237922099676973
+    second: mobs-slime-orange
+  - first:
+      213: 9189616593651120015
+    second: mobs-wolf-run
+  - first:
+      213: -782240046579297233
+    second: mobs-worm-run-idle
+  - first:
+      213: 7448688927567433534
+    second: props n decorations-generic-rpg-barrel01
+  - first:
+      213: -3323231765500461444
+    second: props n decorations-generic-rpg-barrel02
+  - first:
+      213: 7544714805910954999
+    second: props n decorations-generic-rpg-barrel03
+  - first:
+      213: -4213312878098707753
+    second: props n decorations-generic-rpg-board01
+  - first:
+      213: 6152549763145799246
+    second: props n decorations-generic-rpg-board02
+  - first:
+      213: 9112084411806456929
+    second: props n decorations-generic-rpg-board03
+  - first:
+      213: -7757252135364643681
+    second: props n decorations-generic-rpg-board04
+  - first:
+      213: -6920076331394845931
+    second: props n decorations-generic-rpg-bridge
+  - first:
+      213: 4978679011537508815
+    second: props n decorations-generic-rpg-crate01
+  - first:
+      213: 2605730590634308052
+    second: props n decorations-generic-rpg-crate02
+  - first:
+      213: -5237333803479363983
+    second: props n decorations-generic-rpg-crate03
+  - first:
+      213: 3949983549765623528
+    second: props n decorations-generic-rpg-fence-complete
+  - first:
+      213: 8115616908631172318
+    second: props n decorations-generic-rpg-fence-raw01
+  - first:
+      213: 664428338727430665
+    second: props n decorations-generic-rpg-fence-raw02
+  - first:
+      213: 1250507455791354067
+    second: props n decorations-generic-rpg-fence-raw03
+  - first:
+      213: -161684182600851908
+    second: props n decorations-generic-rpg-fence-raw04
+  - first:
+      213: 8450869890351750877
+    second: props n decorations-generic-rpg-fence-raw05
+  - first:
+      213: -6217891284195082084
+    second: props n decorations-generic-rpg-fence-raw06
+  - first:
+      213: -3050846158858564466
+    second: props n decorations-generic-rpg-fence-raw07
+  - first:
+      213: 480034536821143430
+    second: props n decorations-generic-rpg-fence-raw08
+  - first:
+      213: 4494761336461353418
+    second: props n decorations-generic-rpg-fence-raw09
+  - first:
+      213: -2376643881469473033
+    second: props n decorations-generic-rpg-fence-raw10
+  - first:
+      213: -5207732370676763122
+    second: props n decorations-generic-rpg-fence-raw11
+  - first:
+      213: 6104402375208010489
+    second: props n decorations-generic-rpg-fence-raw12
+  - first:
+      213: 4363998961795393553
+    second: props n decorations-generic-rpg-fence-raw13
+  - first:
+      213: 4017772356875389751
+    second: props n decorations-generic-rpg-fence-raw14
+  - first:
+      213: 3269362512290164003
+    second: props n decorations-generic-rpg-fence-raw15
+  - first:
+      213: 2413937828743407553
+    second: props n decorations-generic-rpg-fence-raw16
+  - first:
+      213: 8608758977877261566
+    second: props n decorations-generic-rpg-fence-raw17
+  - first:
+      213: 9087056014184533003
+    second: props n decorations-generic-rpg-fence-raw18
+  - first:
+      213: 7456673797264765298
+    second: props n decorations-generic-rpg-fence-raw19
+  - first:
+      213: 4552276937219622202
+    second: props n decorations-generic-rpg-fence-raw20
+  - first:
+      213: 3627219852757313275
+    second: props n decorations-generic-rpg-fence-raw21
+  - first:
+      213: 1601733450705103352
+    second: props n decorations-generic-rpg-fence-raw22
+  - first:
+      213: 566535223857152915
+    second: props n decorations-generic-rpg-fence-raw23
+  - first:
+      213: 9139499963979034956
+    second: props n decorations-generic-rpg-fence-raw24
+  - first:
+      213: 1369698445815857404
+    second: props n decorations-generic-rpg-fence-raw25
+  - first:
+      213: -1110595645079332567
+    second: props n decorations-generic-rpg-fence01
+  - first:
+      213: -2973594998446898539
+    second: props n decorations-generic-rpg-fence02
+  - first:
+      213: -6205965279642224738
+    second: props n decorations-generic-rpg-fence03
+  - first:
+      213: -8862574053117909639
+    second: props n decorations-generic-rpg-fence04
+  - first:
+      213: 7750226109484378564
+    second: props n decorations-generic-rpg-fence05
+  - first:
+      213: 4456785750801191520
+    second: props n decorations-generic-rpg-fence06
+  - first:
+      213: -3593499579366656908
+    second: props n decorations-generic-rpg-fence07
+  - first:
+      213: 1903350355775788065
+    second: props n decorations-generic-rpg-fence08
+  - first:
+      213: -9051799118217493295
+    second: props n decorations-generic-rpg-fence09
+  - first:
+      213: 9047181173700860947
+    second: props n decorations-generic-rpg-fence10
+  - first:
+      213: -6873774510105688973
+    second: props n decorations-generic-rpg-fence11
+  - first:
+      213: -2467248049113456586
+    second: props n decorations-generic-rpg-fence12
+  - first:
+      213: -7854323683887379925
+    second: props n decorations-generic-rpg-fence13
+  - first:
+      213: -2643481717779921323
+    second: props n decorations-generic-rpg-fence14
+  - first:
+      213: 39345071322775917
+    second: props n decorations-generic-rpg-fish01
+  - first:
+      213: 1887399886951606976
+    second: props n decorations-generic-rpg-fish02
+  - first:
+      213: -8384025046124785318
+    second: props n decorations-generic-rpg-fish03
+  - first:
+      213: 2493730830774580917
+    second: props n decorations-generic-rpg-fish04
+  - first:
+      213: 1527044241638326528
+    second: props n decorations-generic-rpg-flower01
+  - first:
+      213: 3401828364656383932
+    second: props n decorations-generic-rpg-flower02
+  - first:
+      213: -5436074059987516909
+    second: props n decorations-generic-rpg-flower03
+  - first:
+      213: -6122195585806671107
+    second: props n decorations-generic-rpg-flowers
+  - first:
+      213: 7011128940384463154
+    second: props n decorations-generic-rpg-grass01
+  - first:
+      213: 3457462416580014261
+    second: props n decorations-generic-rpg-grass02
+  - first:
+      213: -1443325826414786154
+    second: props n decorations-generic-rpg-house-inn
+  - first:
+      213: 3089127172074295184
+    second: props n decorations-generic-rpg-loot01
+  - first:
+      213: 9203725773490163351
+    second: props n decorations-generic-rpg-loot02
+  - first:
+      213: -6928232452514855289
+    second: props n decorations-generic-rpg-loot03
+  - first:
+      213: -5115298766610005832
+    second: props n decorations-generic-rpg-loot04
+  - first:
+      213: -6565010465576862914
+    second: props n decorations-generic-rpg-loot05
+  - first:
+      213: 7651975504620913253
+    second: props n decorations-generic-rpg-mini-lake
+  - first:
+      213: 8360930765210740343
+    second: props n decorations-generic-rpg-rock01
+  - first:
+      213: 7511155326135543904
+    second: props n decorations-generic-rpg-rock02
+  - first:
+      213: -3060156197407948275
+    second: props n decorations-generic-rpg-rock03
+  - first:
+      213: 5493741645461251647
+    second: props n decorations-generic-rpg-rock04
+  - first:
+      213: 6741219331576295349
+    second: props n decorations-generic-rpg-rock05
+  - first:
+      213: -766667926298718060
+    second: props n decorations-generic-rpg-rock06
+  - first:
+      213: -5264059080299108240
+    second: props n decorations-generic-rpg-rod
+  - first:
+      213: 6248449217263244581
+    second: props n decorations-generic-rpg-trasure-open
+  - first:
+      213: 856206134491910955
+    second: props n decorations-generic-rpg-treasure-closed
+  - first:
+      213: 2675854603031997064
+    second: props n decorations-generic-rpg-tree01
+  - first:
+      213: -2386754888920521866
+    second: props n decorations-generic-rpg-tree02
+  - first:
+      213: 354795118089441067
+    second: props n decorations-Main Character tent thing
+  - first:
+      213: -2301137227569224677
+    second: tiles-generic-rpg-Slice
+  - first:
+      213: -3480872156501956666
+    second: tiles-generic-rpg-tile-waterfall01
+  - first:
+      213: 2959950041526936870
+    second: tiles-generic-rpg-tile-waterfall02
+  - first:
+      213: -3910524245417296855
+    second: tiles-generic-rpg-tile-waterfall03
+  - first:
+      213: 5536826738673400570
+    second: tiles-generic-rpg-tile-waterfall04
+  - first:
+      213: 8948386153346929808
+    second: tiles-generic-rpg-tile-waterfall05
+  - first:
+      213: 9006209032100705538
+    second: tiles-generic-rpg-tile-waterfall06
+  - first:
+      213: 3218572113311534896
+    second: tiles-generic-rpg-tile-waterfall07
+  - first:
+      213: 1872987172600678773
+    second: tiles-generic-rpg-tile01
+  - first:
+      213: 3452857170217035614
+    second: tiles-generic-rpg-tile02
+  - first:
+      213: -5289189083988157564
+    second: tiles-generic-rpg-tile03
+  - first:
+      213: -1994524842238428246
+    second: tiles-generic-rpg-tile04
+  - first:
+      213: 8338926348901989128
+    second: tiles-generic-rpg-tile05
+  - first:
+      213: 3885683451423777463
+    second: tiles-generic-rpg-tile06
+  - first:
+      213: -2124813476782374913
+    second: tiles-generic-rpg-tile07
+  - first:
+      213: 3996242284279381091
+    second: tiles-generic-rpg-tile08
+  - first:
+      213: 5699922131352991817
+    second: tiles-generic-rpg-tile09
+  - first:
+      213: 4969022134717500715
+    second: tiles-generic-rpg-tile10
+  - first:
+      213: -6598935921220503285
+    second: tiles-generic-rpg-tile11
+  - first:
+      213: 6376665932830206560
+    second: tiles-generic-rpg-tile12
+  - first:
+      213: 7476932665332426243
+    second: tiles-generic-rpg-tile13
+  - first:
+      213: 4504492240997354324
+    second: tiles-generic-rpg-tile14
+  - first:
+      213: -4880773561297108770
+    second: tiles-generic-rpg-tile15
+  - first:
+      213: 2779526456641681089
+    second: tiles-generic-rpg-tile16
+  - first:
+      213: 5845102323419698776
+    second: tiles-generic-rpg-tile17
+  - first:
+      213: -8302728696737808162
+    second: tiles-generic-rpg-tile18
+  - first:
+      213: -5330702361054526172
+    second: tiles-generic-rpg-tile19
+  - first:
+      213: -2255004405021591055
+    second: tiles-generic-rpg-tile20
+  - first:
+      213: -7469080461809412071
+    second: tiles-generic-rpg-tile21
+  - first:
+      213: 2680591993636393081
+    second: tiles-generic-rpg-tile22
+  - first:
+      213: -6086596139427580766
+    second: tiles-generic-rpg-tile23
+  - first:
+      213: -2430568417408512700
+    second: tiles-generic-rpg-tile24
+  - first:
+      213: 246759291146246783
+    second: tiles-generic-rpg-tile25
+  - first:
+      213: 823784604440799487
+    second: tiles-generic-rpg-tile26
+  - first:
+      213: -3969874331853483030
+    second: tiles-generic-rpg-tile27
+  - first:
+      213: 488292322112992927
+    second: tiles-generic-rpg-tile28
+  - first:
+      213: -8558926728531442715
+    second: tiles-generic-rpg-tile29
+  - first:
+      213: -8148327195038374231
+    second: tiles-generic-rpg-tile30
+  - first:
+      213: -5591034403029047382
+    second: tiles-generic-rpg-tile31
+  - first:
+      213: 5548151562495119988
+    second: tiles-generic-rpg-tile32
+  - first:
+      213: 8288904876634796438
+    second: tiles-generic-rpg-tile33
+  - first:
+      213: -3055933734790389691
+    second: tiles-generic-rpg-tile34
+  - first:
+      213: -3348972751835189203
+    second: tiles-generic-rpg-tile35
+  - first:
+      213: -4202826105835695044
+    second: tiles-generic-rpg-tile37
+  - first:
+      213: -3684137327327237043
+    second: tiles-generic-rpg-tile38
+  - first:
+      213: -8683469295357723973
+    second: tiles-generic-rpg-tile39
+  - first:
+      213: 6922268866181907827
+    second: tiles-generic-rpg-tile40
+  - first:
+      213: -8428679635099621957
+    second: tiles-generic-rpg-tile41
+  - first:
+      213: 362179930944435956
+    second: tiles-generic-rpg-tile42
+  - first:
+      213: 3799747878422711130
+    second: tiles-generic-rpg-tile43
+  - first:
+      213: -4605797012521428559
+    second: tiles-generic-rpg-tile44
+  - first:
+      213: -6630182558986098952
+    second: tiles-generic-rpg-tile45
+  - first:
+      213: 8876076088369271829
+    second: tiles-generic-rpg-tile46
+  - first:
+      213: -5546863438286223294
+    second: tiles-generic-rpg-tile47
+  - first:
+      213: 6653296474726812041
+    second: tiles-generic-rpg-tile48
+  - first:
+      213: 7393066911744301263
+    second: tiles-generic-rpg-tile49
+  - first:
+      213: 532774365733689179
+    second: tiles-generic-rpg-tile50
+  - first:
+      213: -2028399279338828633
+    second: tiles-generic-rpg-tile51
+  - first:
+      213: -7954258460482560994
+    second: tiles-generic-rpg-tile52
+  - first:
+      213: 6593635070407188813
+    second: tiles-generic-rpg-tile53
+  - first:
+      213: 6655141147424009603
+    second: tiles-generic-rpg-tile54
+  - first:
+      213: 5484432128771804004
+    second: tiles-generic-rpg-tile55
+  - first:
+      213: 7028502361558016112
+    second: tiles-generic-rpg-tile56
+  - first:
+      213: 1260673416889913300
+    second: tiles-generic-rpg-tile57
+  - first:
+      213: 6457792451708960569
+    second: tiles-generic-rpg-tile58
+  - first:
+      213: 4020913148399928543
+    second: tiles-generic-rpg-tile59
+  - first:
+      213: 3310549411077417239
+    second: tiles-generic-rpg-tile60
+  - first:
+      213: 199536341919559476
+    second: tiles-generic-rpg-tile61
+  - first:
+      213: 6724473083563015662
+    second: tiles-generic-rpg-tile62
+  - first:
+      213: -726123865339542569
+    second: tiles-generic-rpg-tile63
+  - first:
+      213: -3998694613603551696
+    second: tiles-generic-rpg-tile64
+  - first:
+      213: -2740774903133514603
+    second: tiles-generic-rpg-tile65
+  - first:
+      213: 1101189882292742743
+    second: tiles-generic-rpg-tile66
+  - first:
+      213: 8414090520978110945
+    second: tiles-generic-rpg-tile67
+  - first:
+      213: -2176424724006522434
+    second: tiles-generic-rpg-tile68
+  - first:
+      213: 4481739155992505097
+    second: tiles-generic-rpg-tile69
+  - first:
+      213: -638608943929769030
+    second: tiles-generic-rpg-tile70
+  - first:
+      213: 6507452681591014208
+    second: tiles-generic-rpg-tile71
+  - first:
+      213: 2852365424160961373
+    second: UI-generic-rpg-ui-inventario
+  - first:
+      213: -5068591454453635401
+    second: UI-generic-rpg-ui-inventario01
+  - first:
+      213: 8796432656459004658
+    second: UI-generic-rpg-ui-inventario02
+  - first:
+      213: 1683245680115936100
+    second: UI-generic-rpg-ui-inventario03
+  - first:
+      213: 3964885635522480508
+    second: UI-generic-rpg-ui-inventario04
+  - first:
+      213: 5925579786602805611
+    second: UI-generic-rpg-ui-text-box
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: atlas
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 135
+        width: 510
+        height: 512
+      alignment: 9
+      pivot: {x: 0.5019608, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c71cd1a6b777ec560800000000000000
+      internalID: 7335932214978134396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars-gabe-gabe-idle-run
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 922
+        width: 162
+        height: 24
+      alignment: 9
+      pivot: {x: 0.49382716, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df11312408ef29560800000000000000
+      internalID: 7319192171248292349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars-hat-guy-hat-guy
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 924
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e64517988dad51e20800000000000000
+      internalID: 3320800923809305710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars-mani-mani-idle-run
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 922
+        width: 161
+        height: 24
+      alignment: 9
+      pivot: {x: 0.49689442, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34aaaf7260847c100800000000000000
+      internalID: 128150305681091139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars-sensei-sensei
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 923
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a33b644152f44b780800000000000000
+      internalID: -8668216362108800198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chars-vendor-generic-rpg-vendor
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 740
+        width: 56
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfc2fe5d7be2827f0800000000000000
+      internalID: -637207980169810693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobs-boss_bee
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 840
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a25a804a6ac5bb50800000000000000
+      internalID: 6608410585934221988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobs-corrupted-fox-run
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 834
+        width: 144
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 963c802ebbeec1810800000000000000
+      internalID: 1737526046976689001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobs-fox-run
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 996
+        width: 141
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5106383, y: 0.75}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4a57ffb85a7fb360800000000000000
+      internalID: 7187598051902970445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobs-kobold-idle
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 898
+        width: 359
+        height: 24
+      alignment: 9
+      pivot: {x: 0.49860725, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05f5c93bbf2e79b40800000000000000
+      internalID: 5447071845005942608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobs-red-kobold-idle
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 743
+        width: 360
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 224bdfa7f93c85530800000000000000
+      internalID: 3844037371691381794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobs-slime-blue
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 1012
+        width: 62
+        height: 12
+      alignment: 9
+      pivot: {x: 0.5, y: 0.9166667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b044964bba1c9f010800000000000000
+      internalID: 1223221717018166283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobs-slime-green
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 1012
+        width: 62
+        height: 12
+      alignment: 9
+      pivot: {x: 0.5, y: 0.9166667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df12af6ebfad1c7c0800000000000000
+      internalID: -4052717414209936899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobs-slime-orange
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 1012
+        width: 62
+        height: 12
+      alignment: 9
+      pivot: {x: 0.5, y: 0.9166667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d274702fb08f4c670800000000000000
+      internalID: 8558237922099676973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobs-wolf-run
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 793
+        width: 144
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5, y: 0.31707317}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f873c9e6a93188f70800000000000000
+      internalID: 9189616593651120015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobs-worm-run-idle
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 874
+        width: 496
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f245e8672dce425f0800000000000000
+      internalID: -782240046579297233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: props n decorations-generic-rpg-barrel01
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 947
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3fca026d1f0f5760800000000000000
+      internalID: 7448688927567433534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: props n decorations-generic-rpg-barrel02
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 947
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7efc07015281e1d0800000000000000
+      internalID: -3323231765500461444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: props n decorations-generic-rpg-barrel03
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 996
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f3e3f1742634b860800000000000000
+      internalID: 7544714805910954999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: props n decorations-generic-rpg-board01
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 997
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7da095da24e4785c0800000000000000
+      internalID: -4213312878098707753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: props n decorations-generic-rpg-board02
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 997
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e461837796f326550800000000000000
+      internalID: 6152549763145799246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: props n decorations-generic-rpg-board03
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 924
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16c1911ae70a47e70800000000000000
+      internalID: 9112084411806456929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: props n decorations-generic-rpg-board04
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 996
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9433765844b85490800000000000000
+      internalID: -7757252135364643681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: props n decorations-generic-rpg-bridge
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 735
+        width: 58
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5133f90ad33f6ff90800000000000000
+      internalID: -6920076331394845931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: props n decorations-generic-rpg-crate01
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 927
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc9d26dce22d71540800000000000000
+      internalID: 4978679011537508815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: props n decorations-generic-rpg-crate02
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 925
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d1702b9a2a692420800000000000000
+      internalID: 2605730590634308052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: props n decorations-generic-rpg-crate03
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 946
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17e877187a04157b0800000000000000
+      internalID: -5237333803479363983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: props n decorations-generic-rpg-fence-complete
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 673
+        width: 67
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ee9a605c1921d630800000000000000
+      internalID: 3949983549765623528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: props n decorations-generic-rpg-fence-raw01
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 996
+        width: 15
+        height: 16
+      alignment: 9
+      pivot: {x: 0.53333336, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed46d1c749670a070800000000000000
+      internalID: 8115616908631172318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: props n decorations-generic-rpg-fence-raw02
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 996
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90a2d84cd06883900800000000000000
+      internalID: 664428338727430665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: props n decorations-generic-rpg-fence-raw03
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 996
+        width: 15
+        height: 16
+      alignment: 9
+      pivot: {x: 0.46666667, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d0db63d7e1ba5110800000000000000
+      internalID: 1250507455791354067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: props n decorations-generic-rpg-fence-raw04
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 996
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3ed642b71591cdf0800000000000000
+      internalID: -161684182600851908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: props n decorations-generic-rpg-fence-raw05
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 996
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dded5710465874570800000000000000
+      internalID: 8450869890351750877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: props n decorations-generic-rpg-fence-raw06
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 996
+        width: 10
+        height: 16
+      alignment: 9
+      pivot: {x: 0.2, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c900e8122dc95b9a0800000000000000
+      internalID: -6217891284195082084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: props n decorations-generic-rpg-fence-raw07
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 996
+        width: 10
+        height: 16
+      alignment: 9
+      pivot: {x: 0.2, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8cced4259739a5d0800000000000000
+      internalID: -3050846158858564466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: props n decorations-generic-rpg-fence-raw08
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 996
+        width: 10
+        height: 16
+      alignment: 9
+      pivot: {x: 0.2, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 687b42f2edc69a600800000000000000
+      internalID: 480034536821143430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: props n decorations-generic-rpg-fence-raw09
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 996
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac160f90f99906e30800000000000000
+      internalID: 4494761336461353418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: props n decorations-generic-rpg-fence-raw10
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 996
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fe08675bf6740fd0800000000000000
+      internalID: -2376643881469473033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: props n decorations-generic-rpg-fence-raw11
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 996
+        width: 10
+        height: 16
+      alignment: 9
+      pivot: {x: 0.8, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e063288200b6ab7b0800000000000000
+      internalID: -5207732370676763122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: props n decorations-generic-rpg-fence-raw12
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 996
+        width: 10
+        height: 16
+      alignment: 9
+      pivot: {x: 0.8, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f203542e9137b450800000000000000
+      internalID: 6104402375208010489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: props n decorations-generic-rpg-fence-raw13
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 996
+        width: 10
+        height: 16
+      alignment: 9
+      pivot: {x: 0.8, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 118ecfd2fe9009c30800000000000000
+      internalID: 4363998961795393553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: props n decorations-generic-rpg-fence-raw14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 980
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73b01f7ebaef1c730800000000000000
+      internalID: 4017772356875389751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: props n decorations-generic-rpg-fence-raw15
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 980
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32da80312eb1f5d20800000000000000
+      internalID: 3269362512290164003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: props n decorations-generic-rpg-fence-raw16
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 980
+        width: 15
+        height: 16
+      alignment: 9
+      pivot: {x: 0.53333336, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c7e0286aa7008120800000000000000
+      internalID: 2413937828743407553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: props n decorations-generic-rpg-fence-raw17
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 980
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efc3451eda4787770800000000000000
+      internalID: 8608758977877261566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: props n decorations-generic-rpg-fence-raw18
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 980
+        width: 11
+        height: 16
+      alignment: 9
+      pivot: {x: 0.72727275, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0ccb83bc45bb1e70800000000000000
+      internalID: 9087056014184533003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: props n decorations-generic-rpg-fence-raw19
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 980
+        width: 12
+        height: 16
+      alignment: 9
+      pivot: {x: 0.6666667, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 271fdebbf4d6b7760800000000000000
+      internalID: 7456673797264765298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: props n decorations-generic-rpg-fence-raw20
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 980
+        width: 10
+        height: 16
+      alignment: 9
+      pivot: {x: 0.2, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a35cd2261cfec2f30800000000000000
+      internalID: 4552276937219622202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: props n decorations-generic-rpg-fence-raw21
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 980
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf628ddfc39765230800000000000000
+      internalID: 3627219852757313275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: props n decorations-generic-rpg-fence-raw22
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 836
+        width: 12
+        height: 38
+      alignment: 9
+      pivot: {x: 0.33333334, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f9632a46108a3610800000000000000
+      internalID: 1601733450705103352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: props n decorations-generic-rpg-fence-raw23
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 791
+        width: 11
+        height: 43
+      alignment: 9
+      pivot: {x: 0.54545456, y: 0.5116279}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39380c2d8ccbcd700800000000000000
+      internalID: 566535223857152915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: props n decorations-generic-rpg-fence-raw24
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 980
+        width: 40
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c417aa94bc606de70800000000000000
+      internalID: 9139499963979034956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: props n decorations-generic-rpg-fence-raw25
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 980
+        width: 44
+        height: 16
+      alignment: 9
+      pivot: {x: 0.45454547, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf04240ca75220310800000000000000
+      internalID: 1369698445815857404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: props n decorations-generic-rpg-fence01
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 997
+        width: 10
+        height: 15
+      alignment: 9
+      pivot: {x: 0.2, y: 0.53333336}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92953fd152f5690f0800000000000000
+      internalID: -1110595645079332567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: props n decorations-generic-rpg-fence02
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 1013
+        width: 16
+        height: 11
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36363637}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 592c1bb8a1babb6d0800000000000000
+      internalID: -2973594998446898539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: props n decorations-generic-rpg-fence03
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 1013
+        width: 16
+        height: 11
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36363637}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e977482757bffd9a0800000000000000
+      internalID: -6205965279642224738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: props n decorations-generic-rpg-fence04
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 1013
+        width: 16
+        height: 11
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36363637}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9752058cadfc10580800000000000000
+      internalID: -8862574053117909639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: props n decorations-generic-rpg-fence05
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 997
+        width: 11
+        height: 15
+      alignment: 9
+      pivot: {x: 0.72727275, y: 0.53333336}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c926c885955e8b60800000000000000
+      internalID: 7750226109484378564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: props n decorations-generic-rpg-fence06
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 980
+        width: 4
+        height: 16
+      alignment: 9
+      pivot: {x: 0.25, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 062178cf60fa9dd30800000000000000
+      internalID: 4456785750801191520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: props n decorations-generic-rpg-fence07
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 980
+        width: 4
+        height: 16
+      alignment: 9
+      pivot: {x: 0.25, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 474b557fb23512ec0800000000000000
+      internalID: -3593499579366656908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: props n decorations-generic-rpg-fence08
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 980
+        width: 11
+        height: 16
+      alignment: 9
+      pivot: {x: 0.72727275, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 124112f601f0a6a10800000000000000
+      internalID: 1903350355775788065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: props n decorations-generic-rpg-fence09
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 1014
+        width: 16
+        height: 10
+      alignment: 9
+      pivot: {x: 0.5, y: 0.8}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d4c37419ac816280800000000000000
+      internalID: -9051799118217493295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: props n decorations-generic-rpg-fence10
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1014
+        width: 16
+        height: 10
+      alignment: 9
+      pivot: {x: 0.5, y: 0.8}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31c9a0de75b0e8d70800000000000000
+      internalID: 9047181173700860947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: props n decorations-generic-rpg-fence11
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 1014
+        width: 16
+        height: 10
+      alignment: 9
+      pivot: {x: 0.5, y: 0.8}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 374040b70827b90a0800000000000000
+      internalID: -6873774510105688973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: props n decorations-generic-rpg-fence12
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 980
+        width: 10
+        height: 16
+      alignment: 9
+      pivot: {x: 0.2, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63021dba8f292cdd0800000000000000
+      internalID: -2467248049113456586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: props n decorations-generic-rpg-fence13
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 980
+        width: 4
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2a84f63936dff290800000000000000
+      internalID: -7854323683887379925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: props n decorations-generic-rpg-fence14
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 980
+        width: 4
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5560d792267705bd0800000000000000
+      internalID: -2643481717779921323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: props n decorations-generic-rpg-fish01
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1017
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d614bd74228cb8000800000000000000
+      internalID: 39345071322775917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: props n decorations-generic-rpg-fish02
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1021
+        width: 6
+        height: 3
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0caecd28234613a10800000000000000
+      internalID: 1887399886951606976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: props n decorations-generic-rpg-fish03
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1020
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5111c914a5f5ab80800000000000000
+      internalID: -8384025046124785318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: props n decorations-generic-rpg-fish04
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1020
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b632cd6af28b9220800000000000000
+      internalID: 2493730830774580917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: props n decorations-generic-rpg-flower01
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 1017
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 001882ba5a6213510800000000000000
+      internalID: 1527044241638326528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: props n decorations-generic-rpg-flower02
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 1017
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb7113ebfd8b53f20800000000000000
+      internalID: 3401828364656383932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: props n decorations-generic-rpg-flower03
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 1017
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3128ab9a17f2f84b0800000000000000
+      internalID: -5436074059987516909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: props n decorations-generic-rpg-flowers
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 846
+        width: 56
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df2678e2d87990ba0800000000000000
+      internalID: -6122195585806671107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: props n decorations-generic-rpg-grass01
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 1017
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 239a31eef988c4160800000000000000
+      internalID: 7011128940384463154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: props n decorations-generic-rpg-grass02
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 1015
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b0f38cdfbf5bff20800000000000000
+      internalID: 3457462416580014261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: props n decorations-generic-rpg-house-inn
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 647
+        width: 70
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6994665dec648fbe0800000000000000
+      internalID: -1443325826414786154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: props n decorations-generic-rpg-loot01
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 1012
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09fce7dcbc8ceda20800000000000000
+      internalID: 3089127172074295184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: props n decorations-generic-rpg-loot02
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 1013
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79e0dfad3d33abf70800000000000000
+      internalID: 9203725773490163351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: props n decorations-generic-rpg-loot03
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1013
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 786c482ba49f9df90800000000000000
+      internalID: -6928232452514855289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: props n decorations-generic-rpg-loot04
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 1013
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b08730bfdec209b0800000000000000
+      internalID: -5115298766610005832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: props n decorations-generic-rpg-loot05
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 1013
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3bb194b3c564e4a0800000000000000
+      internalID: -6565010465576862914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: props n decorations-generic-rpg-mini-lake
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 835
+        width: 55
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5628be6fd27413a60800000000000000
+      internalID: 7651975504620913253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: props n decorations-generic-rpg-rock01
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 1016
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 776650c9b3ef70470800000000000000
+      internalID: 8360930765210740343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: props n decorations-generic-rpg-rock02
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 1015
+        width: 25
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 068a71b29fbfc3860800000000000000
+      internalID: 7511155326135543904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: props n decorations-generic-rpg-rock03
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 1013
+        width: 23
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d020a40e6242885d0800000000000000
+      internalID: -3060156197407948275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: props n decorations-generic-rpg-rock04
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 997
+        width: 26
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f36ec716be0bd3c40800000000000000
+      internalID: 5493741645461251647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: props n decorations-generic-rpg-rock05
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 997
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bfe99bf34f9d8d50800000000000000
+      internalID: 6741219331576295349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: props n decorations-generic-rpg-rock06
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 999
+        width: 32
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4909740459f3c55f0800000000000000
+      internalID: -766667926298718060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: props n decorations-generic-rpg-rod
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 841
+        width: 14
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0782a1a182e42f6b0800000000000000
+      internalID: -5264059080299108240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: props n decorations-generic-rpg-trasure-open
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 847
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5251b081573f6b650800000000000000
+      internalID: 6248449217263244581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: props n decorations-generic-rpg-treasure-closed
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 925
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2396e461fad1eb00800000000000000
+      internalID: 856206134491910955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: props n decorations-generic-rpg-tree01
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 661
+        width: 53
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88ae05c859b822520800000000000000
+      internalID: 2675854603031997064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: props n decorations-generic-rpg-tree02
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 661
+        width: 53
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67327f7f21b80eed0800000000000000
+      internalID: -2386754888920521866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: props n decorations-Main Character tent thing
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 647
+        width: 70
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2f83c5b74c7ce400800000000000000
+      internalID: 354795118089441067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles-generic-rpg-Slice
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 980
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b142f4b22e7b010e0800000000000000
+      internalID: -2301137227569224677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles-generic-rpg-tile-waterfall01
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 980
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c72723573571bfc0800000000000000
+      internalID: -3480872156501956666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles-generic-rpg-tile-waterfall02
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 980
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 625ad1a51ead31920800000000000000
+      internalID: 2959950041526936870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles-generic-rpg-tile-waterfall03
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 980
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92c795aeae60bb9c0800000000000000
+      internalID: -3910524245417296855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles-generic-rpg-tile-waterfall04
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 980
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afa338d5592c6dc40800000000000000
+      internalID: 5536826738673400570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles-generic-rpg-tile-waterfall05
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 980
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 094944fbbcd0f2c70800000000000000
+      internalID: 8948386153346929808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles-generic-rpg-tile-waterfall06
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 980
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 205f643d56b7cfc70800000000000000
+      internalID: 9006209032100705538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles-generic-rpg-tile-waterfall07
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 980
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03f89e9c84aaaac20800000000000000
+      internalID: 3218572113311534896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles-generic-rpg-tile01
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 980
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5790ab3f8ef2ef910800000000000000
+      internalID: 1872987172600678773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles-generic-rpg-tile02
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 980
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5762f26d430bef20800000000000000
+      internalID: 3452857170217035614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles-generic-rpg-tile03
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 980
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48b130b2d860996b0800000000000000
+      internalID: -5289189083988157564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles-generic-rpg-tile04
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 980
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aabbfa239360254e0800000000000000
+      internalID: -1994524842238428246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles-generic-rpg-tile05
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 980
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80bb2723551d9b370800000000000000
+      internalID: 8338926348901989128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles-generic-rpg-tile06
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 980
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b26ab70388bce530800000000000000
+      internalID: 3885683451423777463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles-generic-rpg-tile07
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 980
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fff7c6e86652382e0800000000000000
+      internalID: -2124813476782374913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles-generic-rpg-tile08
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 980
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36c3ede3f21857730800000000000000
+      internalID: 3996242284279381091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles-generic-rpg-tile09
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 980
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 948beae9af03a1f40800000000000000
+      internalID: 5699922131352991817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles-generic-rpg-tile10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 964
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2dc3e4fd4385f440800000000000000
+      internalID: 4969022134717500715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles-generic-rpg-tile11
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 964
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0936180ebedb64a0800000000000000
+      internalID: -6598935921220503285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles-generic-rpg-tile12
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 964
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06aeda181e77e7850800000000000000
+      internalID: 6376665932830206560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles-generic-rpg-tile13
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 964
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30667a605a663c760800000000000000
+      internalID: 7476932665332426243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles-generic-rpg-tile14
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 964
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45b862ec3db238e30800000000000000
+      internalID: 4504492240997354324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles-generic-rpg-tile15
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 964
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed084c13e42044cb0800000000000000
+      internalID: -4880773561297108770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles-generic-rpg-tile16
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 964
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c67de3f59cd29620800000000000000
+      internalID: 2779526456641681089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles-generic-rpg-tile17
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 964
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 856dd3f2899fd1150800000000000000
+      internalID: 5845102323419698776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles-generic-rpg-tile18
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 964
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed040847d38c6cc80800000000000000
+      internalID: -8302728696737808162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles-generic-rpg-tile19
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 964
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4254206227a8506b0800000000000000
+      internalID: -5330702361054526172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles-generic-rpg-tile20
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 964
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f93fbfe07d94b0e0800000000000000
+      internalID: -2255004405021591055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles-generic-rpg-tile21
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 964
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9181a0394ee785890800000000000000
+      internalID: -7469080461809412071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles-generic-rpg-tile22
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 964
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97014704730633520800000000000000
+      internalID: 2680591993636393081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles-generic-rpg-tile23
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 964
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a4b7223f01188ba0800000000000000
+      internalID: -6086596139427580766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles-generic-rpg-tile24
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 964
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44d051ee6e2e44ed0800000000000000
+      internalID: -2430568417408512700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles-generic-rpg-tile25
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 964
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7a9cc5944aac6300800000000000000
+      internalID: 246759291146246783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles-generic-rpg-tile26
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 964
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff8212fabbbae6b00800000000000000
+      internalID: 823784604440799487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles-generic-rpg-tile27
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 964
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae39ee6145c28e8c0800000000000000
+      internalID: -3969874331853483030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles-generic-rpg-tile28
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 964
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f967816a743c6c600800000000000000
+      internalID: 488292322112992927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles-generic-rpg-tile29
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 964
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e3894fcc75983980800000000000000
+      internalID: -8558926728531442715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles-generic-rpg-tile30
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 964
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a6251a76935bee80800000000000000
+      internalID: -8148327195038374231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles-generic-rpg-tile31
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 964
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa7277045d7a862b0800000000000000
+      internalID: -5591034403029047382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles-generic-rpg-tile32
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 964
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 472dc82637efefc40800000000000000
+      internalID: 5548151562495119988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles-generic-rpg-tile33
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 964
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 691f1dc911b180370800000000000000
+      internalID: 8288904876634796438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles-generic-rpg-tile34
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 964
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 540afa095742795d0800000000000000
+      internalID: -3055933734790389691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles-generic-rpg-tile35
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 964
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d20b66c960f0681d0800000000000000
+      internalID: -3348972751835189203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles-generic-rpg-tile37
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 964
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c34dcec9cef8ca5c0800000000000000
+      internalID: -4202826105835695044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles-generic-rpg-tile38
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 964
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4c27e4ce905fdcc0800000000000000
+      internalID: -3684137327327237043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles-generic-rpg-tile39
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 964
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbaf030deae1e7780800000000000000
+      internalID: -8683469295357723973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles-generic-rpg-tile40
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 964
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 375c488abd6d01060800000000000000
+      internalID: 6922268866181907827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles-generic-rpg-tile41
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 964
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb561586780570b80800000000000000
+      internalID: -8428679635099621957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles-generic-rpg-tile42
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 964
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f6f7b07ab8b60500800000000000000
+      internalID: 362179930944435956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles-generic-rpg-tile43
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 948
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5b0e61409a6bb430800000000000000
+      internalID: 3799747878422711130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles-generic-rpg-tile44
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 948
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b9da19050ce410c0800000000000000
+      internalID: -4605797012521428559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles-generic-rpg-tile45
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 948
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f6a4af371cdcf3a0800000000000000
+      internalID: -6630182558986098952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles-generic-rpg-tile46
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 948
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 514d696cc282e2b70800000000000000
+      internalID: 8876076088369271829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles-generic-rpg-tile47
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 948
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 248095767159503b0800000000000000
+      internalID: -5546863438286223294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles-generic-rpg-tile48
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 948
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9894371a4e1455c50800000000000000
+      internalID: 6653296474726812041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles-generic-rpg-tile49
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 948
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc89633af23799660800000000000000
+      internalID: 7393066911744301263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles-generic-rpg-tile50
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 948
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b579dfe767bc46700800000000000000
+      internalID: 532774365733689179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles-generic-rpg-tile51
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 948
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7acc9543a9da9d3e0800000000000000
+      internalID: -2028399279338828633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles-generic-rpg-tile52
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 948
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1c9a4bd21ccc9190800000000000000
+      internalID: -7954258460482560994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles-generic-rpg-tile53
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 948
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d41ad26792c418b50800000000000000
+      internalID: 6593635070407188813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles-generic-rpg-tile54
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 948
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38d2b46fc9fcb5c50800000000000000
+      internalID: 6655141147424009603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles-generic-rpg-tile55
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 948
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46bce2e96fd9c1c40800000000000000
+      internalID: 5484432128771804004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles-generic-rpg-tile56
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 948
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 070e8a3c8a14a8160800000000000000
+      internalID: 7028502361558016112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles-generic-rpg-tile57
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 948
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4df40871bcfce7110800000000000000
+      internalID: 1260673416889913300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles-generic-rpg-tile58
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 948
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93fbf4d1500be9950800000000000000
+      internalID: 6457792451708960569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles-generic-rpg-tile59
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 948
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd4431b64372dc730800000000000000
+      internalID: 4020913148399928543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles-generic-rpg-tile60
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 948
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 719e5aa362f61fd20800000000000000
+      internalID: 3310549411077417239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles-generic-rpg-tile61
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 948
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43f65ebee35e4c200800000000000000
+      internalID: 199536341919559476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles-generic-rpg-tile62
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 948
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eedf27744a0225d50800000000000000
+      internalID: 6724473083563015662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles-generic-rpg-tile63
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 948
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d3c08f013a4ce5f0800000000000000
+      internalID: -726123865339542569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles-generic-rpg-tile64
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 948
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03674e65f68c188c0800000000000000
+      internalID: -3998694613603551696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles-generic-rpg-tile65
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 948
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 594db613fbfc6f9d0800000000000000
+      internalID: -2740774903133514603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles-generic-rpg-tile66
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 948
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75a20541d56384f00800000000000000
+      internalID: 1101189882292742743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles-generic-rpg-tile67
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 948
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e9b1e2cfbad4c470800000000000000
+      internalID: 8414090520978110945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles-generic-rpg-tile68
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 948
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb1b635ae39cbc1e0800000000000000
+      internalID: -2176424724006522434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles-generic-rpg-tile69
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 948
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90b64e06406523e30800000000000000
+      internalID: 4481739155992505097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles-generic-rpg-tile70
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 948
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab3cdaa8c843327f0800000000000000
+      internalID: -638608943929769030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles-generic-rpg-tile71
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 948
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04345e66cbd1f4a50800000000000000
+      internalID: 6507452681591014208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-generic-rpg-ui-inventario
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 658
+        width: 92
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5378b4ad33a59720800000000000000
+      internalID: 2852365424160961373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-generic-rpg-ui-inventario01
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 997
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b6e5bd3deeb8a9b0800000000000000
+      internalID: -5068591454453635401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-generic-rpg-ui-inventario02
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 997
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fa72e245e4331a70800000000000000
+      internalID: 8796432656459004658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-generic-rpg-ui-inventario03
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1018
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46b650127071c5710800000000000000
+      internalID: 1683245680115936100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-generic-rpg-ui-inventario04
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 1017
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c79cd588a7a160730800000000000000
+      internalID: 3964885635522480508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-generic-rpg-ui-text-box
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 842
+        width: 112
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b69f1bcbb63eb3250800000000000000
+      internalID: 5925579786602805611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
