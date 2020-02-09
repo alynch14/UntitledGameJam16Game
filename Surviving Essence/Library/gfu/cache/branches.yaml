@@ -1,0 +1,91 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1666186674, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 2
+  lastUpdatedAtString: 2020-02-09T15:04:23.802-05:00
+  initializedAtString: 2020-02-09T15:04:23.746-05:00
+  localBranches:
+  - name: added-artwork
+    tracking: origin/added-artwork
+  - name: Day_Night_Cycle
+    tracking: origin/Day_Night_Cycle
+  - name: master
+    tracking: origin/master
+  remoteBranches:
+  - name: origin/added-artwork
+    tracking: '[None]'
+  - name: origin/HEAD
+    tracking: '[None]'
+  - name: origin/master
+    tracking: '[None]'
+  remotes:
+  - name: origin
+    url: https://github.com/alynch14/UntitledGameJam16Game.git
+    login: 
+    user: 
+    host: 
+    function: 0
+    token: 
+  localConfigBranches:
+    keys:
+    - added-artwork
+    - Day_Night_Cycle
+    - master
+    values:
+    - name: added-artwork
+      remote:
+        name: origin
+        url: https://github.com/alynch14/UntitledGameJam16Game.git
+      trackingBranch: added-artwork
+    - name: Day_Night_Cycle
+      remote:
+        name: origin
+        url: https://github.com/alynch14/UntitledGameJam16Game.git
+      trackingBranch: Day_Night_Cycle
+    - name: master
+      remote:
+        name: origin
+        url: https://github.com/alynch14/UntitledGameJam16Game.git
+      trackingBranch: master
+  remoteConfigBranches:
+    keys:
+    - origin
+    subKeys:
+    - Values:
+      - added-artwork
+      - HEAD
+      - master
+    subKeyValues:
+    - Values:
+      - name: added-artwork
+        remote:
+          name: origin
+          url: https://github.com/alynch14/UntitledGameJam16Game.git
+        trackingBranch: 
+      - name: HEAD
+        remote:
+          name: origin
+          url: https://github.com/alynch14/UntitledGameJam16Game.git
+        trackingBranch: 
+      - name: master
+        remote:
+          name: origin
+          url: https://github.com/alynch14/UntitledGameJam16Game.git
+        trackingBranch: 
+  configRemotes:
+    keys:
+    - origin
+    values:
+    - name: origin
+      url: https://github.com/alynch14/UntitledGameJam16Game.git
